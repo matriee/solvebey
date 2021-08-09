@@ -5,5 +5,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solvebey&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 Social Media
-- [Discord](https://discord.com/users/852804973183500329)
+<a href="https://discord.com/users/852804973183500329"><img src="https://img.shields.io/badge/Solve%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 - [Instagram](https://www.instagram.com/solvebey)
